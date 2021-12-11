@@ -1,1 +1,1 @@
-bool ricerca(char a[10][20], char b[1][20], int& posizione);
+bool ricerca(char alfabeto[10][20], char parola[1][20], int& posizione);
